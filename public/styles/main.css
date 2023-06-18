@@ -43,3 +43,16 @@ p, h1 {
     color:white;
 }
 
+#about_row {
+    display: flex;
+    justify-content: space-between safe;
+}
+
+.about_col {
+    flex: 1;
+    padding: 1em;
+}
+
+#me_img {
+    height: 200px;
+}
