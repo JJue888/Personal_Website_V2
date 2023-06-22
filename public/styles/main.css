@@ -53,6 +53,10 @@ p, h1 {
     padding: 1em;
 }
 
-#me_img {
-    height: 200px;
+#me_img{
+    height: 1000px;
+}
+
+.modal-body > p {
+    color: black;
 }
