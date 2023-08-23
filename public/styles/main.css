@@ -54,9 +54,19 @@ p, h1 {
 }
 
 #me_img{
-    height: 1000px;
+    width: 75%;
+    height: auto;
 }
 
 .modal-body > p {
     color: black;
+}
+
+#exp_img {
+    width: 75%;
+    height: auto;
+}
+
+#Othello {
+    --bs-modal-width: 75%;
 }
